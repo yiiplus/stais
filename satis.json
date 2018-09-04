@@ -1,8 +1,10 @@
 {
-  "name": "himoca Repository",
-  "homepage": "http://packages.himoca.com",
+  "name": "Yiiplus Repository",
+  "homepage": "http://packagist.yiiplus.com",
   "repositories": [
-    { "type": "vcs", "url": "https://github.com/yiiplus/yii2-setting.git" }
+    { "type": "vcs", "url": "https://github.com/yiiplus/yii2-setting.git" },
+    { "type": "vcs", "url": "https://github.com/yiiplus/yii2-smser.git" },
+    { "type": "vcs", "url": "https://github.com/yiiplus/yii2-desktop.git" }
   ],
   "require-all": true
 }
