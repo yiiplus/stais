@@ -1,0 +1,8 @@
+{
+  "name": "himoca Repository",
+  "homepage": "http://packages.himoca.com",
+  "repositories": [
+    { "type": "vcs", "url": "https://github.com/yiiplus/yii2-setting.git" }
+  ],
+  "require-all": true
+}
