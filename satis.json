@@ -3,7 +3,6 @@
   "homepage": "http://packagist.yiiplus.com",
   "repositories": [
     { "type": "vcs", "url": "https://github.com/yiiplus/yii2-kvstore.git" },
-    { "type": "vcs", "url": "https://github.com/yiiplus/yii2-setting.git" },
     { "type": "vcs", "url": "https://github.com/yiiplus/yii2-smser.git" },
     { "type": "vcs", "url": "https://github.com/yiiplus/yii2-desktop.git" }
   ],
