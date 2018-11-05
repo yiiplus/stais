@@ -2,6 +2,7 @@
   "name": "Yiiplus Repository",
   "homepage": "http://packagist.yiiplus.com",
   "repositories": [
+    { "type": "vcs", "url": "https://github.com/yiiplus/scaffold.git" },
     { "type": "vcs", "url": "https://github.com/yiiplus/yii2-passport.git" },
     { "type": "vcs", "url": "https://github.com/yiiplus/yii2-app-version.git" },
     { "type": "vcs", "url": "https://github.com/yiiplus/yii2-storage.git" },
